@@ -1,0 +1,3 @@
+
+live:
+        trunk serve --open

@@ -7,4 +7,6 @@ edition = "2021"
 
 [dependencies]
 console_error_panic_hook = "0.1.7"
+getrandom = { version = "0.2.15", features = ["js"] }
 leptos = { version = "0.6.11", features = ["csr"] }
+rand = "0.8.5"
